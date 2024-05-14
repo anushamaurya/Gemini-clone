@@ -1,5 +1,5 @@
 Gemini Clone
-Welcome to the Gemini Clone project! This project aims to replicate the conversational capabilities and functionalities of Gemini, an AI language model developed by Google. By building this clone, chatbot development, and AI-powered conversational interfaces.
+Welcome to the Gemini Clone project! This project aims to replicate the conversational capabilities and functionalities of Gemini, an AI language model developed by Google. By building this clone,you can explore chatbot development, and AI-powered conversational interfaces.
 
 How to Setup & Run this Project
 ❖ Install NodeJs ( Ignore If Already Installed)
